@@ -29,6 +29,18 @@ function App() {
 
   return (
     <div className="App">
+      <div className="card">
+        <img src={user[0].image} alt="user" className="user-image" />
+        <h1 className="user-name">{user[0].name}</h1>
+        <img src={email} alt="Email Icon" className="email-image" />
+        <p className="user-email">{user[0].email}</p>
+        <img src={phone} alt="Phone Icon" className="phone-image" />
+        <p className="user-cell">{user[0].phone}</p>
+        <img src={location} alt="Location Icon" className="location-image" />
+        <p className="user-location">{user[0].location}</p>
+        <p className="user-age">{user[0].age}</p>
+        <p className="user-registration">{user[0].registration}</p>
+      </div>
     </div>
   );
 }
