@@ -11,3 +11,20 @@
   justify-content: center;
   align-items: center;
 }
+
+.card {
+  background: radial-gradient(white, aqua);
+  border: 0.1vw solid gray;
+  box-shadow: rgba(0, 255, 255, 0.4) 0.25vw 0.25vw,
+    rgba(0, 255, 255, 0.3) 0.5vw 0.5vw, rgba(0, 255, 255, 0.2) 0.75vw 0.75vw,
+    rgba(0, 255, 255, 0.1) 1vw 1vw, rgba(0, 255, 255, 0.05) 1.25vw 1.25vw;
+  border-radius: 0.5vw;
+  width: 25vw;
+  height: 45vh;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 3fr repeat(3, 2fr) 1fr 1fr;
+  gap: 0.1vw;
+  padding: 0.5vw;
+}
+
