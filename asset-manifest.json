@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Random-User/static/css/main.9d2b3824.chunk.css",
+    "main.css": "/Random-User/static/css/main.d5c28233.chunk.css",
     "main.js": "/Random-User/static/js/main.ac1bfe97.chunk.js",
     "main.js.map": "/Random-User/static/js/main.ac1bfe97.chunk.js.map",
     "runtime-main.js": "/Random-User/static/js/runtime-main.3e686346.js",
@@ -10,7 +10,7 @@
     "static/js/3.6a98c0d6.chunk.js": "/Random-User/static/js/3.6a98c0d6.chunk.js",
     "static/js/3.6a98c0d6.chunk.js.map": "/Random-User/static/js/3.6a98c0d6.chunk.js.map",
     "index.html": "/Random-User/index.html",
-    "static/css/main.9d2b3824.chunk.css.map": "/Random-User/static/css/main.9d2b3824.chunk.css.map",
+    "static/css/main.d5c28233.chunk.css.map": "/Random-User/static/css/main.d5c28233.chunk.css.map",
     "static/js/2.a253e768.chunk.js.LICENSE.txt": "/Random-User/static/js/2.a253e768.chunk.js.LICENSE.txt",
     "static/media/email.e1f03bb9.svg": "/Random-User/static/media/email.e1f03bb9.svg",
     "static/media/location.0b7d98ab.svg": "/Random-User/static/media/location.0b7d98ab.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.3e686346.js",
     "static/js/2.a253e768.chunk.js",
-    "static/css/main.9d2b3824.chunk.css",
+    "static/css/main.d5c28233.chunk.css",
     "static/js/main.ac1bfe97.chunk.js"
   ]
 }
