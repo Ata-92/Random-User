@@ -39,3 +39,16 @@ img {
   width: 2vw;
   margin: 0 auto;
 }
+
+.user-image {
+  width: 6vw;
+  border-radius: 4vw;
+  object-fit: cover;
+  margin-bottom: 1vw;
+}
+
+.user-age,
+.user-registration {
+  grid-column: 1 / 3;
+  font-size: smaller;
+}
