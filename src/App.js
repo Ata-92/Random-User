@@ -41,6 +41,9 @@ function App() {
         <p className="user-age">{user[0].age}</p>
         <p className="user-registration">{user[0].registration}</p>
       </div>
+      <div className="btn">
+        <button onClick={getData}>Random User</button>
+      </div>
     </div>
   );
 }
