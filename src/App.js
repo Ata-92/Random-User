@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="App">
       {user.map((auser) => (
-        <div className="card">
+        <div key="user" className="card">
           <img src={auser.image} alt="user" className="user-image" />
           <h1 className="user-name">{auser.name}</h1>
           <img src={email} alt="Email Icon" className="email-image" />
